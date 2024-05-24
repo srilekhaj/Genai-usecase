@@ -1,0 +1,6 @@
+langchain_google_genai
+streamlit
+chromadb
+psycopg2
+
+speech_recognition
